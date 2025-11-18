@@ -96,7 +96,6 @@ endmodule
 
 **RTL**
 
-
 <img width="294" height="289" alt="image" src="https://github.com/user-attachments/assets/400a6d96-0f91-4569-99f8-077f48ef30d2" />
 
 **Result:**
