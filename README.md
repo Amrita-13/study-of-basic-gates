@@ -96,7 +96,7 @@ endmodule
 
 **RTL**
 
-<img width="294" height="289" alt="image" src="https://github.com/user-attachments/assets/400a6d96-0f91-4569-99f8-077f48ef30d2" />
+<img width="472" height="365" alt="image" src="https://github.com/user-attachments/assets/58e9d22e-ee70-4d31-95cd-930f912b029c" />
 
 **Result:**
 Thus the given logic function are implememnted using logic gates and their operations are verified using verilog programming.
